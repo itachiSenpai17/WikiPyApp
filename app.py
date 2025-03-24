@@ -1,5 +1,4 @@
 # Install required packages
-!pip install wikipedia wikipedia-api plotly
 
 import urllib.parse
 import datetime
